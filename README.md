@@ -38,11 +38,6 @@ Take care reading the UI and Technical specifications below as they are in a dif
 * You MUST keep the todo-list in a state object, you can choose yourself where this should reside.
 * You MUST use at least 3 levels of components. In the simplest case this would be an App component in which you have a TodoList component containing TodoCard components.
 * You MUST use `props` for passing the necessary information to the todo components.
-* You MUST use Semantic html elements.
-* You MUST use a clear naming strategy for your css and class names.
-* You SHOULD use BEM.
-* You SHOULD have a mobile first approach.
-* You SHOULD have suitable tests.
 * You MUST NOT use React Router, Hooks nor Redux.
 
 ### Handing in!
@@ -51,7 +46,10 @@ Take care reading the UI and Technical specifications below as they are in a dif
 * Hand in the entire project except for the node_modules.
 * Upload this to your weekend test folder in a folder named 'todoreact'.
 
-Make it work, and then if you have time, make it great!
+```
+"Make it work, and then if you have time, make it great!"
+- The Hammer
+```
 
 | ![Todo](todo.png) |
 |:---:|
