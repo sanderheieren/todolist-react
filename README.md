@@ -31,7 +31,7 @@ Take care reading the UI and Technical specifications below as they are in a dif
 * Each todo card MUST be toggleable between 'done' and 'not done'.
 * There MUST be a remove-button on cards that are 'done' and when the user clicks the button it will be removed from the list completely.
 * Todo cards which are set to 'done' MUST appear on the bottom of the list, and they SHOULD be easy to visually separate.
-* The original order of the cards MUST be maintained if you toggle a card to 'not done' and then back again.
+* The original order of the cards MUST be maintained if you toggle a card to 'done' and then back again.
 * It SHOULD be easy to add, toggle and remove todo's. For example adding a new card by hitting 'enter'
 
 ### Technical specifications
